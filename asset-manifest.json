@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Projeto-Filmes/static/css/main.7c214c15.css",
+    "main.js": "/Projeto-Filmes/static/js/main.215ec7e7.js",
+    "static/media/logo.png": "/Projeto-Filmes/static/media/logo.1052ef7c657f512cef03.png",
+    "index.html": "/Projeto-Filmes/index.html",
+    "main.7c214c15.css.map": "/Projeto-Filmes/static/css/main.7c214c15.css.map",
+    "main.215ec7e7.js.map": "/Projeto-Filmes/static/js/main.215ec7e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c214c15.css",
+    "static/js/main.215ec7e7.js"
+  ]
+}
